@@ -3,7 +3,7 @@
 Basic Template Provider, with everything needed to create your very own, how exciting :)
 
 ## Use the repo template
-You need to start by using this template
+Start by using this template
 ![Top](/assets/top.png)
 
 Choose your new provider name, and add a simple description, don't forget to make public.
