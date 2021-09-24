@@ -23,7 +23,7 @@ After going into the newly cloned repo, install dependencies
 ```
 
 ## Follow our simple guide
-
+Use our [How to Create a Provider Guide](http://localhost:3000/docs/community/create-provider)
 ## Copy Template Read Me
 
 ## Clean 
